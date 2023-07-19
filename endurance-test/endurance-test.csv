@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1689754858903,507,Nhat - Get Book,200,OK,Endurance Test 1-1,text,true,,741,181,2,2,https://nhatproject3-appservice.azurewebsites.net/api/Books/2,506,0,482
+1689754858899,515,Nhat - Get Book,200,OK,Endurance Test 1-2,text,true,,741,181,2,2,https://nhatproject3-appservice.azurewebsites.net/api/Books/1,515,0,493
+1689754859417,35,Nhat - Get Book,200,OK,Endurance Test 1-2,text,true,,741,181,2,2,https://nhatproject3-appservice.azurewebsites.net/api/Books/4,35,0,0
+1689754859419,36,Nhat - Get Book,200,OK,Endurance Test 1-1,text,true,,741,181,1,1,https://nhatproject3-appservice.azurewebsites.net/api/Books/3,36,0,0
